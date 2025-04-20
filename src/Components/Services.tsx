@@ -14,11 +14,6 @@ const Services = () => {
                         Web Developer
                     </a>
 
-                    <a href="#home" className='WebDev'>
-                        Web Developer
-                    </a>
-
-
                 </div>
             </div>
 

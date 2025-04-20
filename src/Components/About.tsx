@@ -14,7 +14,6 @@ const About = () => {
           <p>Nome: <span>Eduardo</span></p>
           <p>Data de nascimento: <span>25/07/2006</span></p>
           <p>Email: <span>edupaz077@gmail.com</span></p>
-          <p>Telefone: <span>+55 11 0000-0000</span></p>
         </div>
       </div>
     </section>

@@ -19,7 +19,7 @@ const Contact = () => {
 
       </div>
       <div>
-        <footer>Copyright ©2024 Todos os direitos reservados por Edu</footer>
+        <footer>Copyright ©2025 Todos os direitos reservados por Edu</footer>
       </div>
 
     </section>
