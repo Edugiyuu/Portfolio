@@ -1,6 +1,6 @@
 import Skill from "./Skill"
 import '../Styles/Skills.css'
-import { SiTypescript, SiTypescriptHex,SiHtml5,SiHtml5Hex, SiJavascript, SiJavascriptHex, SiReact, SiReactHex, SiNodedotjs, SiNodedotjsHex, SiMongodb, SiMongodbHex, SiCss3Hex, SiCss3, SiFirebase, SiFirebaseHex, SiMui, SiMuiHex, SiVite, SiViteHex, SiGit, SiGitHex, SiSwagger, SiSwaggerHex,SiGreensock, SiGreensockHex} from '@icons-pack/react-simple-icons'
+import { SiTypescript, SiTypescriptHex,SiHtml5,SiHtml5Hex, SiJavascript, SiJavascriptHex, SiReact, SiReactHex, SiNodedotjs, SiNodedotjsHex, SiMongodb, SiMongodbHex, SiCss3Hex, SiCss3, SiFirebase, SiFirebaseHex, SiMui, SiMuiHex, SiVite, SiViteHex, SiGit, SiGitHex, SiSwagger, SiSwaggerHex,SiGreensock, SiGreensockHex, SiSqlite, SiNodemon, SiNodemonHex} from '@icons-pack/react-simple-icons'
 
 const Skills = () => {
   return (
@@ -22,7 +22,9 @@ const Skills = () => {
       <Skill skillName="Git" IconName={SiGit} Color={SiGitHex} Size="45px"></Skill>
       <Skill skillName="Swagger" IconName={SiSwagger} Color={SiSwaggerHex} Size="45px"></Skill>
       <Skill skillName="GSAP" IconName={SiGreensock} Color={SiGreensockHex} Size="45px"></Skill>
-     
+      <Skill skillName="SQLite" IconName={SiSqlite} Color={SiCss3Hex} Size="45px"></Skill>
+      <Skill skillName="Nodemon" IconName={SiNodemon} Color={SiNodemonHex} Size="45px"></Skill>
+
       </div>
     </section>
   )
