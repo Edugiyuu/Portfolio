@@ -27,7 +27,7 @@
     margin-top: 20px;
     font-size: 1.2rem;
     color: white;
-    background-color: #21d421;
+    background-color: #12bcfa;
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -49,14 +49,14 @@
   
 }
 #home button:hover {
-    background-color: #1cb81c;
+    background-color: #12bcfa;
     animation: pulse 1s;
    
 }
 
 @keyframes pulse {
     0% {
-        box-shadow: 0 0 0 0 #1cb81c;
+        box-shadow: 0 0 0 0 #12bcfa;
     }
     70% {
         box-shadow: 0 0 0 50px rgba(33, 212, 33, 0);

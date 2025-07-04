@@ -19,9 +19,9 @@ const Home = () => {
   return (
     <section id="home">
       <div className="SobreHome">
-        <p>Olá, eu sou um <span style={{color:'#21d421'}}>DEV</span></p>
+        <p>Olá, eu sou um <span style={{color:'#12bcfa'}}>DEV</span></p>
 
-        <h1>Eu me chamo <span style={{color:'#21d421'}}>Eduardo</span>, mas pode me chamar só de <span style={{color:'#21d421'}}>edu</span> :)</h1>
+        <h1>Eu me chamo <span style={{color:'#12bcfa'}}>Eduardo</span>, mas pode me chamar só de <span style={{color:'#12bcfa'}}>edu</span> :)</h1>
         <button className='buttonProjects' onClick={toProjects}>Meus Projetos</button>
         <button className='buttonServices' onClick={toServices}>Serviços</button>
       </div>

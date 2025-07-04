@@ -19,6 +19,10 @@
    color: #333;
    margin-top: 20px;
 }
+.Project h3{
+   color: #171717;
+   letter-spacing: 2px;
+}
 
 .AllTheProjects{
     display: flex;
